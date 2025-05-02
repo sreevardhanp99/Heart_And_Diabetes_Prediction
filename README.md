@@ -1,4 +1,4 @@
-# Heart Disease And Diabetics Predicton
+# Heart Disease And Diabetics Prediction
 
 ### Technologies:
 * Programming Language: Python
